@@ -65,6 +65,20 @@ By consolidating task management into a single system, the application enhances 
 * Team collaboration and workflow tracking, Agile development task boards
 * Startup or small team productivity tools
 
+
+<b>Environment Variables Example</b>
+```
+# Clerk
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_aWRlYWwtZGlub3NhdXItNi5jbGVray6hY2NvdW50cy5kZXYk
+CLERK_SECRET_KEY=sk_test_2lNphdfGqHWvdWTXKct5NeQU3RCkx8ruei4qgZE8z8
+
+# supabase 
+NEXT_PUBLIC_SUPABASE_URL=https://utzofsvmgeldwefpkxfht.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=sb_publishable_aU4y48vS7yKgabIYzU3I4Q_LHx_y2Fc
+
+```
+
+
 ## Project Overview
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
