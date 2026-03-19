@@ -86,9 +86,6 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=sb_publishable_aU4y48vS7yKgabIYzU3I4Q_LHx_y2Fc
       <img width="100%" src="https://github.com/MirrorMorphy/Trello/blob/main/asset/land.png" />
     </div>
     <div style="flex: 1 1 45%; min-width: 300px;">
-      <img src="https://github.com/MirrorMorphy/Trello/blob/main/asset/home.png" width="100%" />
-    </div>
-    <div style="flex: 1 1 45%; min-width: 300px;">
       <img src="https://github.com/MirrorMorphy/Trello/blob/main/asset/board.png" width="100%" />
     </div>
     <div style="flex: 1 1 45%; min-width: 300px;">
