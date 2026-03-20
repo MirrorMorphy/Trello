@@ -1,5 +1,6 @@
-# Trello Clone – Task Management Application
+<img width="100%" src="https://github.com/MirrorMorphy/Trello/blob/main/asset/trello.png">
 
+# Trello Clone – Task Management Application
 
 This project is a full-stack task management application inspired by Kanban-style workflow systems. Built using Next.js, Supabase, and Clerk, it provides a scalable and secure platform for managing tasks, organizing workflows, and collaborating efficiently. The application enables users to visually structure their work through boards, lists, and cards, improving clarity and productivity.
 
